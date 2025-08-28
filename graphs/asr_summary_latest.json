@@ -1,0 +1,7 @@
+{
+  "best_acc_backend": "whisper",
+  "best_acc": 0.6264,
+  "acc_gap": 0.29669999999999996,
+  "best_wer_backend": "whisper",
+  "best_wer": 0.3736
+}
