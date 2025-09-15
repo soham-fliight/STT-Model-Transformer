@@ -1,0 +1,19 @@
+{
+  "labels": [
+    "Vosk",
+    "Whisper (FW)"
+  ],
+  "best_wer": {
+    "label": "Whisper (FW)",
+    "wer_percent": 46.913580246913575
+  },
+  "best_rtf": {
+    "label": "Vosk",
+    "rtf": 0.045485812607170654
+  },
+  "pareto_front": [
+    "Vosk",
+    "Whisper (FW)"
+  ],
+  "count": 2
+}

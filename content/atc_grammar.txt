@@ -1,0 +1,176 @@
+low altitude alert
+low altitude
+climb immediately
+descend immediately
+climb the airplane
+climb the aircraft
+level the plane
+level up the plane
+maintain altitude
+check altitude
+you appear to be descending
+it looks like you're descending
+are you descending
+not descending
+start climbing now
+when you can sir
+please
+tower
+aircraft
+pilot
+go for the pilot
+airport
+runway
+traffic
+roger
+affirmative
+negative
+caution
+
+# Altitude words
+five hundred
+one thousand
+one thousand five hundred
+two thousand
+two thousand five hundred
+three thousand
+three thousand five hundred
+four thousand
+four thousand five hundred
+five thousand
+five thousand five hundred
+six thousand
+six thousand five hundred
+seven thousand
+seven thousand five hundred
+eight thousand
+eight thousand five hundred
+nine thousand
+nine thousand five hundred
+ten thousand
+eleven thousand
+twelve thousand
+fifteen thousand
+
+# Altitude instructions
+maintain five thousand
+maintain five thousand feet
+climb and maintain five thousand
+descend and maintain five thousand
+level off at five thousand
+level at five thousand
+
+# Templates expanded with altitudes
+climb and maintain five hundred
+climb and maintain one thousand
+climb and maintain one thousand five hundred
+climb and maintain two thousand
+climb and maintain two thousand five hundred
+climb and maintain three thousand
+climb and maintain three thousand five hundred
+climb and maintain four thousand
+climb and maintain four thousand five hundred
+climb and maintain six thousand
+climb and maintain six thousand five hundred
+climb and maintain seven thousand
+climb and maintain seven thousand five hundred
+climb and maintain eight thousand
+climb and maintain eight thousand five hundred
+climb and maintain nine thousand
+climb and maintain nine thousand five hundred
+climb and maintain ten thousand
+climb and maintain eleven thousand
+climb and maintain twelve thousand
+climb and maintain fifteen thousand
+
+descend and maintain five hundred
+descend and maintain one thousand
+descend and maintain one thousand five hundred
+descend and maintain two thousand
+descend and maintain two thousand five hundred
+descend and maintain three thousand
+descend and maintain three thousand five hundred
+descend and maintain four thousand
+descend and maintain four thousand five hundred
+descend and maintain six thousand
+descend and maintain six thousand five hundred
+descend and maintain seven thousand
+descend and maintain seven thousand five hundred
+descend and maintain eight thousand
+descend and maintain eight thousand five hundred
+descend and maintain nine thousand
+descend and maintain nine thousand five hundred
+descend and maintain ten thousand
+descend and maintain eleven thousand
+descend and maintain twelve thousand
+descend and maintain fifteen thousand
+
+maintain five hundred
+maintain one thousand
+maintain one thousand five hundred
+maintain two thousand
+maintain two thousand five hundred
+maintain three thousand
+maintain three thousand five hundred
+maintain four thousand
+maintain four thousand five hundred
+maintain six thousand
+maintain six thousand five hundred
+maintain seven thousand
+maintain seven thousand five hundred
+maintain eight thousand
+maintain eight thousand five hundred
+maintain nine thousand
+maintain nine thousand five hundred
+maintain ten thousand
+maintain eleven thousand
+maintain twelve thousand
+maintain fifteen thousand
+
+level off at five hundred
+level off at one thousand
+level off at one thousand five hundred
+level off at two thousand
+level off at two thousand five hundred
+level off at three thousand
+level off at three thousand five hundred
+level off at four thousand
+level off at four thousand five hundred
+level off at six thousand
+level off at six thousand five hundred
+level off at seven thousand
+level off at seven thousand five hundred
+level off at eight thousand
+level off at eight thousand five hundred
+level off at nine thousand
+level off at nine thousand five hundred
+level off at ten thousand
+level off at eleven thousand
+level off at twelve thousand
+level off at fifteen thousand
+
+level at five hundred
+level at one thousand
+level at one thousand five hundred
+level at two thousand
+level at two thousand five hundred
+level at three thousand
+level at three thousand five hundred
+level at four thousand
+level at four thousand five hundred
+level at six thousand
+level at six thousand five hundred
+level at seven thousand
+level at seven thousand five hundred
+level at eight thousand
+level at eight thousand five hundred
+level at nine thousand
+level at nine thousand five hundred
+level at ten thousand
+level at eleven thousand
+level at twelve thousand
+level at fifteen thousand
+
+# Callsigns and misc
+two two golf
+golf

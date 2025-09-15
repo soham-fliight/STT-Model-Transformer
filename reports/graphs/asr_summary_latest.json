@@ -1,0 +1,21 @@
+{
+  "labels": [
+    "Whisper",
+    "Vosk",
+    "S2T",
+    "Wave2Ved2"
+  ],
+  "best_wer": {
+    "label": "Whisper",
+    "wer_percent": 45.67901234567901
+  },
+  "best_rtf": {
+    "label": "Vosk",
+    "rtf": 0.4697996864252994
+  },
+  "pareto_front": [
+    "Whisper",
+    "Vosk"
+  ],
+  "count": 4
+}

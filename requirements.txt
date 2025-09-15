@@ -1,0 +1,16 @@
+# core
+psutil>=5.9
+soundfile>=0.12
+jiwer>=3.0
+numpy>=1.23
+
+# model stacks
+vosk>=0.3.45
+ctranslate2==4.5.0
+faster-whisper==1.1.0
+transformers==4.45.2
+tokenizers==0.20.3   # 0.20.1 also fine
+torch>=2.0
+
+# optional
+pynvml>=11.5
